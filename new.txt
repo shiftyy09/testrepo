@@ -1,2 +1,4 @@
+
 bob (asd)
-Kész és sikerült...
+Kész és sikerült..
+kész 22
